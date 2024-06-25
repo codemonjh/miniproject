@@ -1,0 +1,14 @@
+asgiref==3.8.1
+Django==5.0.4
+django-allauth==0.63.2
+django-debug-toolbar==4.3.0
+django-rest-framework==0.1.0
+djangorestframework==3.15.1
+djangorestframework-simplejwt==5.3.1
+Faker==25.2.0
+pillow==10.3.0
+PyJWT==2.8.0
+python-dateutil==2.9.0.post0
+six==1.16.0
+sqlparse==0.4.4
+tzdata==2024.1
